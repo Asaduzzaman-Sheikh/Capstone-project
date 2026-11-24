@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------------------------
+1. Create an environment name "atlas" -> CMD: conda create -n atlas python=3.10
+2. Acitvate the environment -> CMD: conda activate atlas
+3. Check which environment you are using -> CMD: which python
+4. Use cookiecutter for project structur -> CMD: cookiecutter -c v1  ccds https://github.com/drivendataorg/cookiecutter-data-science
+
